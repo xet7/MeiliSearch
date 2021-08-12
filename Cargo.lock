@@ -1757,7 +1757,7 @@ dependencies = [
 [[package]]
 name = "milli"
 version = "0.9.0"
-source = "git+https://github.com/meilisearch/milli.git?tag=v0.9.0#2102e0da6b046f252b75b2bb5a9fd34a5954ac8b"
+source = "git+https://github.com/meilisearch/milli.git?branch=remove-facet-distribution-limit#8fdf860c17efd131504beba7c8ecfdd3b20335fb"
 dependencies = [
  "bstr",
  "byteorder",
